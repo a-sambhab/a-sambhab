@@ -1,13 +1,23 @@
+### Hola Amigos, I'm Sai Sambhab Chaini 
+
+## I'm a newbie in development!!
 - 👋 Hi, I’m @a-sambhab
 - 👀 I’m interested in app development and machine learning.
 - 🌱 I’m currently focusing on competetive programming and DSA.
 - 🔭 I'm looking forward to learn app development.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me:saisambhavchaini@gmail.com
-- 🧗 I try to: Acheive all my goals by pushing my limits.
+- 🧗 I try to: Acheive all my goals by pushing my limits
 
+[<img align="left" alt="ChainiSai | TWITTER" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<!---
-a-sambhab/a-sambhab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img align="left" alt="a-sambhab | INSTAGRAM" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="a-sambhab | LINKEDIN" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+[twitter]: https://twitter.com/ChainiSai
+[instagram]: https://www.instagram.com/a_sambhab/
+[linkedin]:  https://www.linkedin.com/in/saisambhav-chaini-1a5877210/
