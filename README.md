@@ -1,19 +1,21 @@
-### Hola Amigos, I'm Sai Sambhab Chaini 
+### Hola Amigos 👋, I'm Sai Sambhab Chaini 
 
 ## I'm a newbie in development!!
 - 👋 Hi, I’m @a-sambhab
-- 👀 I’m interested in app development and machine learning.
+- 👀 I’m interested in web development and machine learning.
 - 🌱 I’m currently focusing on competetive programming and DSA.
-- 🔭 I'm looking forward to learn app development.
+- 🔭 I'm looking forward to learn web development.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me:saisambhavchaini@gmail.com
-- 🧗 I try to: Acheive all my goals by pushing my limits
+- 🧗 I try to: Acheive all my goals by pushing my limits.
 
-[<img align="left" alt="ChainiSai | TWITTER" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<hr>
 
-<!-- [<img align="left" alt="a-sambhab | INSTAGRAM" width="50px" height="50px" border="2px solid black " border-radius="5px" overflow="hidden" src ="https://i.pinimg.com/736x/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg" />][instagram] -->
+[<img align="left" alt="ChainiSai | TWITTER" width="35px" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
 
-[<img align="left" alt="a-sambhab | LINKEDIN" width="50px" height="50px" src ="https://img.icons8.com/clouds/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="a-sambhab | INSTAGRAM" width="35px" height="35px" border="2px solid black " border-radius="5px" overflow="hidden" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+
+[<img align="left" alt="a-sambhab | LINKEDIN" width="35px" height="35px" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 <br />
 <br />
