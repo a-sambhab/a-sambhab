@@ -11,9 +11,9 @@
 
 [<img align="left" alt="ChainiSai | TWITTER" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="a-sambhab | INSTAGRAM" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="a-sambhab | INSTAGRAM" width="50px" height="50px" border="2px solid black " border-radius="5px" overflow="hidden" src ="https://i.pinimg.com/736x/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg" />][instagram] -->
 
-[<img align="left" alt="a-sambhab | LINKEDIN" width="22px" src ="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="a-sambhab | LINKEDIN" width="50px" height="50px" src ="https://img.icons8.com/clouds/2x/linkedin.png" />][linkedin]
 
 <br />
 <br />
