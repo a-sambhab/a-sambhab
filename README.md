@@ -1,5 +1,7 @@
 ### Hola Amigos 👋, I'm Sai Sambhab Chaini 
 
+<img align="right" src="https://i.pinimg.com/564x/99/b8/3c/99b83c02b9505aa65973ad0c479d25f3.jpg" style="max-width:100%" >
+
 ## I'm a newbie in development!!
 - 👋 Hi, I’m @a-sambhab
 - 👀 I’m interested in web development and machine learning.
@@ -10,7 +12,7 @@
 - 🧗 I try to: Acheive all my goals by pushing my limits.
 
 
-<img align="right" src="https://i.pinimg.com/564x/99/b8/3c/99b83c02b9505aa65973ad0c479d25f3.jpg" style="max-width:100%" >
+
 
 <hr>
 
