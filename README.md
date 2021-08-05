@@ -5,7 +5,7 @@
 ## I'm a newbie in development!!
 - 👋 Hi, I’m @a-sambhab
 - 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently focusing on competetive programming and DSA.
+- 🌱 I’m currently focusing on ReactJS and DSA.
 - 🔭 I'm looking forward to learn web development.
 - 💞️ I’m looking to collaborate on Github.
 - 📫 How to reach me:saisambhavchaini@gmail.com
