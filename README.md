@@ -1,30 +1,28 @@
-### Hola Amigos 👋, I'm Sai Sambhab Chaini 
+<h1 align="center">Hi 👋, I'm Sai Sambhab Chaini</h1>
+<h3 align="center">Working on building projects and dreams.</h3>
 
-<img align="right" src="https://i.pinimg.com/564x/99/b8/3c/99b83c02b9505aa65973ad0c479d25f3.jpg" style="max-width:100%" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-sambhab&label=Profile%20views&color=0e75b6&style=flat" alt="a-sambhab" /> </p>
 
-## I'm a newbie in development!!
-- 👋 Hi, I’m @a-sambhab
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently focusing on ReactJS and DSA.
-- 🔭 I'm looking forward to learn web development.
-- 💞️ I’m looking to collaborate on Github.
-- 📫 How to reach me:saisambhavchaini@gmail.com
-- 🧗 I try to: Acheive all my goals by pushing my limits.
+- 🔭 I’m currently working on [ManageX](https://github.com/a-sambhab/ManageX)
 
+- 🌱 I’m currently learning **about APIs and Backend**
 
+- 👨‍💻 All of my projects are available at [https://a-sambhab.github.io/portfolio/](https://a-sambhab.github.io/portfolio/)
 
+- 💬 Ask me about **React, Gatsby**
 
-<hr>
+- 📫 How to reach me **saisambhavchaini@gmail.com**
 
-[<img align="left" alt="ChainiSai | TWITTER" width="35px" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chainisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chainisai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-sambhab-chaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sambhab-chaini" height="30" width="40" /></a>
+<a href="https://instagram.com/a_sambhab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_sambhab" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="a-sambhab | INSTAGRAM" width="35px" height="35px" border="2px solid black " border-radius="5px" overflow="hidden" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="a-sambhab | LINKEDIN" width="35px" height="35px" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-sambhab&show_icons=true&locale=en" alt="a-sambhab" /></p>
 
-<br />
-<br />
-
-[twitter]: https://twitter.com/ChainiSai
-[instagram]: https://www.instagram.com/a_sambhab/
-[linkedin]:  https://www.linkedin.com/in/saisambhav-chaini-1a5877210/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-sambhab&" alt="a-sambhab" /></p>
