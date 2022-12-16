@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-sambhab&label=Profile%20views&color=0e75b6&style=flat" alt="a-sambhab" /> </p>
 
-- 🔭 I’m currently working on [ManageX](https://github.com/a-sambhab/ManageX)
+- 🔭 I’m currently working on [Push DAPP](https://github.com/a-sambhab/push-dapp)
 
-- 🌱 I’m currently learning **about APIs and Backend**
+- 🌱 I’m currently learning **about WEB3 DAPPS**
 
 - 👨‍💻 All of my projects are available at [https://a-sambhab.github.io/portfolio/](https://a-sambhab.github.io/portfolio/)
 
