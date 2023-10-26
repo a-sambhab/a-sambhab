@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **about WEB3 DAPPS**
 
-- 👨‍💻 All of my projects are available at [https://a-sambhab.github.io/portfolio/](https://a-sambhab.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://a-sambhab.github.io/SaiPortfolio/](https://a-sambhab.github.io/SaiPortfolio/)
 
 - 💬 Ask me about **React, Gatsby**
 
-- 📫 How to reach me **saisambhavchaini@gmail.com**
+- 📫 How to reach me **saisambhab.chaini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
